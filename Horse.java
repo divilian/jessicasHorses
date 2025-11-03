@@ -1,3 +1,4 @@
 class Horse {
-print Neigh!
+    String breed;
+    String name;
 }
