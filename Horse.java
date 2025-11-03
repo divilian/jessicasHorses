@@ -1,3 +1,3 @@
 class Horse {
-print Neigh!
+    System.out.println("Neigh!");
 }
